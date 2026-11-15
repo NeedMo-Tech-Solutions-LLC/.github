@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Data • Technology • Consulting • Support
+## Website: [motechs.dev](https://motechs.dev/)
 
-Website: [motechs.dev](https://motechs.dev/)
+### Data • Technology • Consulting • Support
 
 **Solving real problems with data and technology.**
 
